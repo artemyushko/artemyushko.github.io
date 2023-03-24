@@ -1,6 +1,6 @@
-.DS_STORE
-node_modules
-.next
-dist
-.vercel
-.env
+*.gem
+.bundle
+.sass-cache
+_site/
+Gemfile.lock
+**/.ruby-version
